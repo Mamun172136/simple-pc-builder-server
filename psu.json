@@ -1,0 +1,116 @@
+[
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/p2C22kv/psu1.jpg",
+    "title": "powerSupplyUnit",
+    "productName": "Corsair RM750x",
+    "category": "PSU",
+    "status": "In Stock",
+    "price": 129.99,
+    "description": "High-performance power supply unit for gaming setups.",
+    "keyFeatures": {
+      "brand": "Corsair",
+      "model": "RM750x",
+      "wattage": 750,
+      "efficiency": "80 PLUS Gold",
+      "modular": "Fully Modular",
+      "connectors": {
+        "atx": 1,
+        "cpu": 2,
+        "pcie": 4,
+        "sata": 8,
+        "molex": 8
+      }
+    },
+    "individualRating": 4.9,
+    "averageRating": 4.8,
+    "reviews": [
+      {
+        "username": "GamerX",
+        "rating": 5,
+        "comment": "Reliable and efficient PSU. Worth the investment!"
+      },
+      {
+        "username": "TechMaster",
+        "rating": 4,
+        "comment": "Great cable management with fully modular design."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "image": "https://i.ibb.co/p2C22kv/psu1.jpg",
+    "title": "powerSupplyUnit",
+    "productName": "EVGA SuperNOVA 850 G5",
+    "category": "PSU",
+    "status": "Out of Stock",
+    "price": 149.99,
+    "description": "High-efficiency power supply unit for gaming and professional use.",
+    "keyFeatures": {
+      "brand": "EVGA",
+      "model": "SuperNOVA 850 G5",
+      "wattage": 850,
+      "efficiency": "80 PLUS Gold",
+      "modular": "Fully Modular",
+      "connectors": {
+        "atx": 1,
+        "cpu": 2,
+        "pcie": 6,
+        "sata": 10,
+        "molex": 8
+      }
+    },
+    "individualRating": 4.7,
+    "averageRating": 4.5,
+    "reviews": [
+      {
+        "username": "ProUser",
+        "rating": 4,
+        "comment": "Solid performance, but a bit pricey."
+      },
+      {
+        "username": "ITPro",
+        "rating": 4,
+        "comment": "Great for workstation builds."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "image": "https://i.ibb.co/p2C22kv/psu1.jpg",
+    "title": "powerSupplyUnit",
+    "productName": "Seasonic Focus GX-650",
+    "category": "PSU",
+    "status": "In Stock",
+    "price": 99.99,
+    "description": "Reliable and quiet power supply unit for various applications.",
+    "keyFeatures": {
+      "brand": "Seasonic",
+      "model": "Focus GX-650",
+      "wattage": 650,
+      "efficiency": "80 PLUS Gold",
+      "modular": "Semi-Modular",
+      "connectors": {
+        "atx": 1,
+        "cpu": 2,
+        "pcie": 4,
+        "sata": 8,
+        "molex": 3
+      }
+    },
+    "individualRating": 4.5,
+    "averageRating": 4.3,
+    "reviews": [
+      {
+        "username": "TechEnthusiast",
+        "rating": 5,
+        "comment": "Quiet and efficient PSU. Great for a silent build."
+      },
+      {
+        "username": "BudgetBuilder",
+        "rating": 4,
+        "comment": "Good value for the price."
+      }
+    ]
+  }
+]

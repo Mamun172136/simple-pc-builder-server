@@ -1,0 +1,95 @@
+[
+  {
+    "image": "https://i.ibb.co/MDT9X2J/motherboard1.jpg",
+    "title": "cpu",
+    "productName": "TechCore i9-9900K",
+    "category": "CPU / Processor",
+    "status": "In Stock",
+    "price": 399.99,
+    "description": "High-performance processor for gaming and heavy workloads.",
+    "keyFeatures": {
+      "brand": "TechCore",
+      "model": "i9-9900K",
+      "specification": "8 cores, 16 threads, 3.6GHz base clock",
+      "socket": "LGA 1151",
+      "architecture": "Coffee Lake",
+      "TDP": "95W"
+    },
+    "individualRating": 4.9,
+    "averageRating": 4.8,
+    "reviews": [
+      {
+        "username": "GamingPro",
+        "rating": 5,
+        "comment": "Unmatched performance for gaming!"
+      },
+      {
+        "username": "DeveloperX",
+        "rating": 5,
+        "comment": "Handles heavy workloads like a champ."
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/MDT9X2J/motherboard1.jpg",
+    "title": "cpu",
+    "productName": "Ryzen 7 5800X",
+    "category": "CPU / Processor",
+    "status": "Out of Stock",
+    "price": 449.99,
+    "description": "Zen 3 processor with excellent multi-core performance.",
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 7 5800X",
+      "specification": "8 cores, 16 threads, 3.8GHz base clock",
+      "socket": "AM4",
+      "architecture": "Zen 3",
+      "TDP": "105W"
+    },
+    "individualRating": 4.7,
+    "averageRating": 4.5,
+    "reviews": [
+      {
+        "username": "AMDfanatic",
+        "rating": 4,
+        "comment": "Great CPU, but a bit on the pricier side."
+      },
+      {
+        "username": "MultitaskMaster",
+        "rating": 5,
+        "comment": "Handles multitasking like a breeze."
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/MDT9X2J/motherboard1.jpg",
+    "title": "cpu",
+    "productName": "Core i5-11600K",
+    "category": "CPU / Processor",
+    "status": "In Stock",
+    "price": 299.99,
+    "description": "Mid-range processor with solid gaming performance.",
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i5-11600K",
+      "specification": "6 cores, 12 threads, 3.9GHz base clock",
+      "socket": "LGA 1200",
+      "architecture": "Rocket Lake",
+      "TDP": "125W"
+    },
+    "individualRating": 4.5,
+    "averageRating": 4.3,
+    "reviews": [
+      {
+        "username": "BudgetBuilder",
+        "rating": 4,
+        "comment": "Great value for the performance."
+      },
+      {
+        "username": "GamerGirl",
+        "rating": 4,
+        "comment": "Handles my favorite games smoothly."
+      }
+    ]
+  }
+]

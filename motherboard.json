@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/MDT9X2J/motherboard1.jpg",
+    "title": "motherboard",
+    "productName": "SuperTech Motherboard X1",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": 149.99,
+    "description": "Powerful motherboard for gaming and multitasking.",
+    "keyFeatures": {
+      "brand": "SuperTech",
+      "model": "X1",
+      "specification": "ATX, DDR4, PCIe 4.0",
+      "port": "USB 3.2, HDMI, DisplayPort",
+      "type": "Gaming",
+      "resolution": "4K",
+      "voltage": "120V"
+    },
+    "individualRating": 4.8,
+    "averageRating": 4.6,
+    "reviews": [
+      {
+        "username": "Gamer123",
+        "rating": 5,
+        "comment": "Perfect for gaming rigs!"
+      },
+      {
+        "username": "TechEnthusiast",
+        "rating": 4,
+        "comment": "Fast and reliable."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "image": "https://i.ibb.co/MDT9X2J/motherboard1.jpg",
+    "title": "motherboard",
+    "productName": "TechMaster Pro Series",
+    "category": "Motherboard",
+    "status": "Out of Stock",
+    "price": 199.99,
+    "description": "Professional-grade motherboard with advanced features.",
+    "keyFeatures": {
+      "brand": "TechMaster",
+      "model": "Pro Series",
+      "specification": "Micro ATX, DDR4, PCIe 3.0",
+      "port": "USB-C, Thunderbolt 3",
+      "type": "Professional",
+      "resolution": "2K",
+      "voltage": "110V"
+    },
+    "individualRating": 4.5,
+    "averageRating": 4.2,
+    "reviews": [
+      {
+        "username": "ProUser",
+        "rating": 4,
+        "comment": "Solid performance, but a bit pricey."
+      },
+      {
+        "username": "ITPro",
+        "rating": 4,
+        "comment": "Great for workstation builds."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "image": "https://i.ibb.co/MDT9X2J/motherboard1.jpg",
+    "title": "motherboard",
+    "productName": "EcoPower Mini-ITX Board",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": 129.99,
+    "description": "Compact and energy-efficient motherboard for small form factor builds.",
+    "keyFeatures": {
+      "brand": "EcoPower",
+      "model": "Mini-ITX",
+      "specification": "Mini-ITX, DDR4, PCIe 3.0",
+      "port": "USB 2.0, HDMI",
+      "type": "Compact",
+      "resolution": "1080p",
+      "voltage": "100V"
+    },
+    "individualRating": 4.2,
+    "averageRating": 4.0,
+    "reviews": [
+      {
+        "username": "CompactBuilder",
+        "rating": 4,
+        "comment": "Ideal for small builds, but lacks some features."
+      },
+      {
+        "username": "GreenTech",
+        "rating": 4,
+        "comment": "Energy-efficient choice for eco-conscious users."
+      }
+    ]
+  }
+]

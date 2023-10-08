@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/xFWQ4xd/ssd1.jpg",
+    "title": "storage",
+    "productName": "Samsung 970 EVO Plus NVMe SSD",
+    "category": "Storage",
+    "status": "In Stock",
+    "price": 149.99,
+    "description": "High-speed NVMe SSD for fast storage and data access.",
+    "keyFeatures": {
+      "brand": "Samsung",
+      "model": "970 EVO Plus",
+      "capacity": "500GB",
+      "interface": "NVMe PCIe 3.0 x4",
+      "formFactor": "M.2 2280",
+      "readSpeed": "3,500 MB/s",
+      "writeSpeed": "3,300 MB/s"
+    },
+    "individualRating": 4.8,
+    "averageRating": 4.7,
+    "reviews": [
+      {
+        "username": "SpeedDemon",
+        "rating": 5,
+        "comment": "Blazing fast SSD. Boot times are a breeze!"
+      },
+      {
+        "username": "TechEnthusiast",
+        "rating": 4,
+        "comment": "Reliable and speedy storage solution."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "image": "https://i.ibb.co/xFWQ4xd/ssd1.jpg",
+    "title": "storage",
+    "productName": "Seagate BarraCuda 2TB HDD",
+    "category": "Storage",
+    "status": "In Stock",
+    "price": 79.99,
+    "description": "High-capacity HDD for storing large amounts of data.",
+    "keyFeatures": {
+      "brand": "Seagate",
+      "model": "BarraCuda",
+      "capacity": "2TB",
+      "interface": "SATA 6Gb/s",
+      "formFactor": "3.5-inch",
+      "speed": "7200 RPM",
+      "cache": "256MB"
+    },
+    "individualRating": 4.5,
+    "averageRating": 4.3,
+    "reviews": [
+      {
+        "username": "StorageKing",
+        "rating": 4,
+        "comment": "Great storage capacity for the price."
+      },
+      {
+        "username": "MediaGuru",
+        "rating": 4,
+        "comment": "Reliable HDD for media storage."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "image": "https://i.ibb.co/xFWQ4xd/ssd1.jpg",
+    "title": "storage",
+    "productName": "Crucial MX500 1TB SATA SSD",
+    "category": "Storage",
+    "status": "Out of Stock",
+    "price": 119.99,
+    "description": "High-performance SATA SSD for fast and reliable storage.",
+    "keyFeatures": {
+      "brand": "Crucial",
+      "model": "MX500",
+      "capacity": "1TB",
+      "interface": "SATA 6Gb/s",
+      "formFactor": "2.5-inch",
+      "readSpeed": "560 MB/s",
+      "writeSpeed": "510 MB/s"
+    },
+    "individualRating": 4.7,
+    "averageRating": 4.6,
+    "reviews": [
+      {
+        "username": "SpeedyStorage",
+        "rating": 5,
+        "comment": "Excellent SATA SSD. Boosted my system speed!"
+      },
+      {
+        "username": "TechReviewer",
+        "rating": 4,
+        "comment": "Reliable and affordable SSD option."
+      }
+    ]
+  }
+]

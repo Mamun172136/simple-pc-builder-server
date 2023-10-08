@@ -1,0 +1,95 @@
+[
+  {
+    "image": "https://i.ibb.co/YL7KPyc/ram1.jpg",
+    "title": "ram",
+    "productName": "HyperX Fury RGB 16GB",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": 89.99,
+    "description": "High-performance DDR4 RAM with customizable RGB lighting.",
+    "keyFeatures": {
+      "brand": "HyperX",
+      "capacity": "16GB",
+      "speed": "3200MHz",
+      "type": "DDR4",
+      "CASLatency": 16,
+      "voltage": 1.35
+    },
+    "individualRating": 4.7,
+    "averageRating": 4.5,
+    "reviews": [
+      {
+        "username": "RGBEnthusiast",
+        "rating": 5,
+        "comment": "Beautiful RGB effects, and fast performance."
+      },
+      {
+        "username": "TechGuru",
+        "rating": 4,
+        "comment": "Reliable RAM for gaming setups."
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/YL7KPyc/ram1.jpg",
+    "title": "ram",
+    "productName": "Corsair Vengeance LPX 32GB",
+    "category": "RAM",
+    "status": "Out of Stock",
+    "price": 149.99,
+    "description": "High-capacity DDR4 RAM with low-profile design.",
+    "keyFeatures": {
+      "brand": "Corsair",
+      "capacity": "32GB",
+      "speed": "3600MHz",
+      "type": "DDR4",
+      "CASLatency": 18,
+      "voltage": 1.35
+    },
+    "individualRating": 4.6,
+    "averageRating": 4.4,
+    "reviews": [
+      {
+        "username": "MemoryMaster",
+        "rating": 5,
+        "comment": "Excellent RAM for content creation tasks."
+      },
+      {
+        "username": "ProUser123",
+        "rating": 4,
+        "comment": "Fast and reliable, but a bit expensive."
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/YL7KPyc/ram1.jpg",
+    "title": "ram",
+    "productName": "G.Skill Ripjaws V 8GB",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": 49.99,
+    "description": "Budget-friendly DDR4 RAM for everyday computing.",
+    "keyFeatures": {
+      "brand": "G.Skill",
+      "capacity": "8GB",
+      "speed": "2400MHz",
+      "type": "DDR4",
+      "CASLatency": 15,
+      "voltage": 1.2
+    },
+    "individualRating": 4.2,
+    "averageRating": 4.0,
+    "reviews": [
+      {
+        "username": "BudgetBuilder",
+        "rating": 4,
+        "comment": "Good value for the price."
+      },
+      {
+        "username": "EverydayUser",
+        "rating": 3,
+        "comment": "Decent performance for everyday tasks."
+      }
+    ]
+  }
+]

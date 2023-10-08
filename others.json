@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/dcYWJts/keyboard1.jpg",
+    "title": "others",
+    "productName": "Corsair K95 RGB Platinum XT",
+    "category": "Keyboard",
+    "status": "In Stock",
+    "price": 199.99,
+    "description": "High-end mechanical keyboard with customizable RGB lighting.",
+    "keyFeatures": {
+      "brand": "Corsair",
+      "model": "K95 RGB Platinum XT",
+      "switchType": "Cherry MX Brown",
+      "macroKeys": 6,
+      "dedicatedMediaControls": true,
+      "wristRest": true
+    },
+    "individualRating": 4.9,
+    "averageRating": 4.8,
+    "reviews": [
+      {
+        "username": "GamingPro123",
+        "rating": 5,
+        "comment": "Exceptional build quality and customizable RGB."
+      },
+      {
+        "username": "TypingEnthusiast",
+        "rating": 4,
+        "comment": "Great typing experience with Cherry MX Brown switches."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "image": "https://i.ibb.co/dcYWJts/keyboard1.jpg",
+    "title": "others",
+    "productName": "Logitech G Pro X Mechanical Gaming Keyboard",
+    "category": "Keyboard",
+    "status": "Out of Stock",
+    "price": 149.99,
+    "description": "Compact and customizable wireless mechanical keyboard.",
+    "keyFeatures": {
+      "brand": "Logitech",
+      "model": "G Pro X",
+      "switchType": "Swappable PRO X",
+      "wireless": true,
+      "lightsyncRGB": true,
+      "tenkeyless": true
+    },
+    "individualRating": 4.7,
+    "averageRating": 4.6,
+    "reviews": [
+      {
+        "username": "WirelessGamer",
+        "rating": 5,
+        "comment": "Love the wireless freedom and customizable switches."
+      },
+      {
+        "username": "TechGeek",
+        "rating": 4,
+        "comment": "Compact design without sacrificing performance."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "image": "https://i.ibb.co/dcYWJts/keyboard1.jpg",
+    "title": "others",
+    "productName": "Ducky One 2 Mini Mechanical Keyboard",
+    "category": "Keyboard",
+    "status": "In Stock",
+    "price": 129.99,
+    "description": "60% compact mechanical keyboard with customizable keycaps.",
+    "keyFeatures": {
+      "brand": "Ducky",
+      "model": "One 2 Mini",
+      "switchType": "Cherry MX Red",
+      "compactSize": true,
+      "customKeycaps": true,
+      "detachableUSB-C": true
+    },
+    "individualRating": 4.8,
+    "averageRating": 4.7,
+    "reviews": [
+      {
+        "username": "CompactUser",
+        "rating": 5,
+        "comment": "Perfect size for a clutter-free desk setup."
+      },
+      {
+        "username": "KeycapEnthusiast",
+        "rating": 4,
+        "comment": "Love the customizable keycaps and vibrant colors."
+      }
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/xFWQ4xd/ssd1.jpg",
+    "title": "Featured",
+    "productName": "Samsung 970 EVO Plus NVMe SSD",
+    "category": "Storage",
+    "status": "In Stock",
+    "price": 149.99,
+    "description": "High-speed NVMe SSD for fast storage and data access.",
+    "keyFeatures": {
+      "brand": "Samsung",
+      "model": "970 EVO Plus",
+      "capacity": "500GB",
+      "interface": "NVMe PCIe 3.0 x4",
+      "formFactor": "M.2 2280",
+      "readSpeed": "3,500 MB/s",
+      "writeSpeed": "3,300 MB/s"
+    },
+    "individualRating": 4.8,
+    "averageRating": 4.7,
+    "reviews": [
+      {
+        "username": "SpeedDemon",
+        "rating": 5,
+        "comment": "Blazing fast SSD. Boot times are a breeze!"
+      },
+      {
+        "username": "TechEnthusiast",
+        "rating": 4,
+        "comment": "Reliable and speedy storage solution."
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/YL7KPyc/ram1.jpg",
+    "title": "Featured",
+    "productName": "HyperX Fury RGB 16GB",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": 89.99,
+    "description": "High-performance DDR4 RAM with customizable RGB lighting.",
+    "keyFeatures": {
+      "brand": "HyperX",
+      "capacity": "16GB",
+      "speed": "3200MHz",
+      "type": "DDR4",
+      "CASLatency": 16,
+      "voltage": 1.35
+    },
+    "individualRating": 4.7,
+    "averageRating": 4.5,
+    "reviews": [
+      {
+        "username": "RGBEnthusiast",
+        "rating": 5,
+        "comment": "Beautiful RGB effects, and fast performance."
+      },
+      {
+        "username": "TechGuru",
+        "rating": 4,
+        "comment": "Reliable RAM for gaming setups."
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/p2C22kv/psu1.jpg",
+    "title": "Featured",
+    "productName": "Corsair RM750x",
+    "category": "PSU",
+    "status": "In Stock",
+    "price": 129.99,
+    "description": "High-performance power supply unit for gaming setups.",
+    "keyFeatures": {
+      "brand": "Corsair",
+      "model": "RM750x",
+      "wattage": 750,
+      "efficiency": "80 PLUS Gold",
+      "modular": "Fully Modular",
+      "connectors": {
+        "atx": 1,
+        "cpu": 2,
+        "pcie": 4,
+        "sata": 8,
+        "molex": 8
+      }
+    },
+    "individualRating": 4.9,
+    "averageRating": 4.8,
+    "reviews": [
+      {
+        "username": "GamerX",
+        "rating": 5,
+        "comment": "Reliable and efficient PSU. Worth the investment!"
+      },
+      {
+        "username": "TechMaster",
+        "rating": 4,
+        "comment": "Great cable management with fully modular design."
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/MDT9X2J/motherboard1.jpg",
+    "title": "Featured",
+    "productName": "SuperTech Motherboard X1",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": 149.99,
+    "description": "Powerful motherboard for gaming and multitasking.",
+    "keyFeatures": {
+      "brand": "SuperTech",
+      "model": "X1",
+      "specification": "ATX, DDR4, PCIe 4.0",
+      "port": "USB 3.2, HDMI, DisplayPort",
+      "type": "Gaming",
+      "resolution": "4K",
+      "voltage": "120V"
+    },
+    "individualRating": 4.8,
+    "averageRating": 4.6,
+    "reviews": [
+      {
+        "username": "Gamer123",
+        "rating": 5,
+        "comment": "Perfect for gaming rigs!"
+      },
+      {
+        "username": "TechEnthusiast",
+        "rating": 4,
+        "comment": "Fast and reliable."
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/ggNVrC6/monitor1.jpg",
+    "title": "Featured",
+    "productName": "Dell XPS 15 InfinityEdge OLED",
+    "category": "Monitor",
+    "status": "In Stock",
+    "price": 699.99,
+    "description": "15.6-inch OLED display with stunning colors and thin bezels.",
+    "keyFeatures": {
+      "brand": "Dell",
+      "model": "XPS 15",
+      "screenSize": "15.6 inches",
+      "resolution": "3840 x 2400",
+      "panelType": "OLED",
+      "refreshRate": "60Hz",
+      "brightness": "500 nits",
+      "responseTime": "7ms"
+    },
+    "individualRating": 4.9,
+    "averageRating": 4.8,
+    "reviews": [
+      {
+        "username": "DesignPro",
+        "rating": 5,
+        "comment": "Amazing colors and clarity. Perfect for design work."
+      },
+      {
+        "username": "TechEnthusiast",
+        "rating": 4,
+        "comment": "High-quality OLED display on a laptop!"
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/MDT9X2J/motherboard1.jpg",
+    "title": "Featured",
+    "productName": "TechCore i9-9900K",
+    "category": "CPU / Processor",
+    "status": "In Stock",
+    "price": 399.99,
+    "description": "High-performance processor for gaming and heavy workloads.",
+    "keyFeatures": {
+      "brand": "TechCore",
+      "model": "i9-9900K",
+      "specification": "8 cores, 16 threads, 3.6GHz base clock",
+      "socket": "LGA 1151",
+      "architecture": "Coffee Lake",
+      "TDP": "95W"
+    },
+    "individualRating": 4.9,
+    "averageRating": 4.8,
+    "reviews": [
+      {
+        "username": "GamingPro",
+        "rating": 5,
+        "comment": "Unmatched performance for gaming!"
+      },
+      {
+        "username": "DeveloperX",
+        "rating": 5,
+        "comment": "Handles heavy workloads like a champ."
+      }
+    ]
+  }
+]
